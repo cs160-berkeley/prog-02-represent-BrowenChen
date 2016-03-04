@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Catnip</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="test">He World!</string>
+    <string name="head">.</string>
+    <string name="description">..</string>
+
+    <string name="welcome_title">Ben Dover</string>
+    <string name="welcome_text">House of Repr </string>
+
+
+    <string name="about_title">Joe Smith</string>
+    <string name="about_text">U.S Congress</string>
+
+    <string name="cards_title">Bob Build</string>
+    <string name="cards_text">U.S Congress</string>
+
+    <string name="expansion_title">Josh Smith</string>
+    <string name="expansion_text">House of Repr</string>
+
+    <string name="backgrounds_title">Backgrounds</string>
+    <string name="backgrounds_text">Backgrounds are supplied by the adapter\'s getBackground method. Parallax and crossfade effects are applied automatically.</string>
+
+    <string name="columns_title">Columns</string>
+    <string name="columns_text">When moving between rows, the pager always returns to column 0. This is adjustable in the adapter. See method getCurrentColumnForRow().</string>
+
+    <string name="dismiss_title">Dismiss</string>
+    <string name="dismiss_text">To exit the application, swipe from left to right.</string>
+
+    <string name="custom_fragment_text">"GridViewPager will accept any fragment."</string>
+
+</resources>
