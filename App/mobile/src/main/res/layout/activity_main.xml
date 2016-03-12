@@ -78,6 +78,15 @@
         android:textSize="30dp"
         android:textColor="#ffffff"/>
 
+    <com.twitter.sdk.android.core.identity.TwitterLoginButton
+        android:id="@+id/twitter_login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView3"
+        android:layout_marginBottom="10dp"
+        android:layout_centerHorizontal="true" />
+
+
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
@@ -99,5 +108,7 @@
         android:layout_alignParentEnd="true"
         android:background="#36223B"
         android:layout_alignStart="@+id/linearLayout" />
+
+
 
 </RelativeLayout>

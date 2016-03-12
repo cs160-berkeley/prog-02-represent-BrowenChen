@@ -6,15 +6,15 @@
     <string name="head">.</string>
     <string name="description">..</string>
 
-    <string name="welcome_title">Ben Dover</string>
-    <string name="welcome_text">House of Repr </string>
+    <string name="welcome_title">Barbara Lee</string>
+    <string name="welcome_text">House </string>
 
 
-    <string name="about_title">Joe Smith</string>
-    <string name="about_text">U.S Congress</string>
+    <string name="about_title">Barbara Boxer</string>
+    <string name="about_text">Senate</string>
 
-    <string name="cards_title">Bob Build</string>
-    <string name="cards_text">U.S Congress</string>
+    <string name="cards_title">Dianne Feinstein</string>
+    <string name="cards_text">Senate</string>
 
     <string name="expansion_title">Josh Smith</string>
     <string name="expansion_text">House of Repr</string>
